@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC AUC
+Decision Tree,0.7597,0.6393,0.7222,0.6783,0.7622
+Support Vector Machine,0.7403,0.6522,0.5556,0.6,0.7964
+K-Nearest Neighbors,0.7403,0.6522,0.5556,0.6,0.8068
+Naive Bayes,0.7013,0.5667,0.6296,0.5965,0.7646
+Logistic Regression,0.7078,0.6,0.5,0.5455,0.813
